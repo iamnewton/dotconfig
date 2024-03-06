@@ -111,6 +111,9 @@ fi
 # install gh
 print_process "Installing GitHub CLI"
 brew install gh
+# install lazygit
+print_process "Installing LazyGit"
+brew install lazygit
 # install neovim
 print_process "Installing NeoViM"
 brew install nvim
